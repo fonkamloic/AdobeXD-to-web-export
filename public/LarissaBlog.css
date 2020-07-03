@@ -1,0 +1,410 @@
+.mediaViewInfo {
+	--web-view-name: SandraBlog;
+	--web-view-id: SandraBlog;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+
+:root {
+	--web-view-ids: SandraBlog;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+
+#infoBody {
+	position: absolute;
+	width: 1692px;
+	height: 964px;
+	left: 119px;
+	top: 701px;
+	overflow: visible;
+
+}
+
+#InfoCard {
+	position: absolute;
+	width: 1692px;
+	height: 964px;
+	left: 119px;
+	top: 701px;
+	overflow: visible;
+}
+
+.SandraBlog_Class {
+	position: absolute;
+	width: 1366px;
+	height: 1907px;
+	background-color: rgba(244, 239, 239, 0.576);
+	overflow: hidden;
+	--web-view-name: SandraBlog;
+	--web-view-id: SandraBlog;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+
+.Background_Class {
+	position: absolute;
+	width: 1366px;
+	height: 1908px;
+	left: 1px;
+	top: -1px;
+	overflow: visible;
+}
+
+.Background_k_Class {
+	opacity: 0.42;
+	position: absolute;
+	width: 1366px;
+	height: 1908px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+
+.HeaderStripe_Class {
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 30px;
+	top: 46.642px;
+	overflow: visible;
+}
+
+.Subtraction_1_Class {
+	fill: rgba(203, 179, 179, 1);
+}
+
+.Subtraction_1 {
+	overflow: visible;
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.HeaderStripe_n_Class {
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 304px;
+	top: 46.642px;
+	overflow: visible;
+}
+
+.Subtraction_1_o_Class {
+	fill: rgba(203, 179, 179, 1);
+}
+
+.Subtraction_1_o {
+	overflow: visible;
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.HeaderStripe_p_Class {
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 851px;
+	top: 46.642px;
+	overflow: visible;
+}
+
+.Subtraction_1_q_Class {
+	fill: rgba(203, 179, 179, 1);
+}
+
+.Subtraction_1_q {
+	overflow: visible;
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.HeaderStripe_r_Class {
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 1125px;
+	top: 46.642px;
+	overflow: visible;
+}
+
+.Subtraction_1_s_Class {
+	fill: rgba(203, 179, 179, 1);
+}
+
+.Subtraction_1_s {
+	overflow: visible;
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.LARISSA_YONGA_Class {
+	left: 452px;
+	top: 351px;
+	position: absolute;
+	overflow: visible;
+	width: 461px;
+	height: 79px;
+	text-align: left;
+	font-family: Chalkduster;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(47, 47, 47, 1);
+	letter-spacing: 0.1px;
+}
+
+.Aprops_Class {
+	position: absolute;
+	width: 363px;
+	height: 62px;
+	left: 65px;
+	top: 573px;
+	overflow: visible;
+}
+
+
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 363px;
+	height: 62px;
+	left: 0px;
+	top: 0px;
+}
+
+.A_Propos_Class {
+	left: 96px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	height: 38px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(3, 3, 3, 1);
+}
+
+.ParcourS_Class {
+	position: absolute;
+	width: 362px;
+	height: 62px;
+	left: 502px;
+	top: 511px;
+	overflow: visible;
+}
+
+.Rectangle_8_y {
+	position: absolute;
+	overflow: visible;
+	width: 362px;
+	height: 62px;
+	left: 0px;
+	top: 0px;
+}
+
+.Parcours_scolaire_Class {
+	left: 33px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 298px;
+	height: 37px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(8, 8, 8, 1);
+}
+
+.Hobbies_Class {
+	position: absolute;
+	width: 362px;
+	height: 62px;
+	left: 938px;
+	top: 573px;
+	overflow: visible;
+}
+/* .Rectangle_8_Class {
+	fill: rgba(203,179,179,1);
+} */
+
+.Rectangle_8_Class {
+	fill: rgba(240, 179, 179, 1);
+}
+
+.Rectangle_8_y_Class {
+	fill: rgba(203, 179, 179, 1);
+}
+
+.Rectangle_8_y_Class:hover {
+	fill: rgba(240, 179, 179, 1);
+}
+
+.Rectangle_8__Class {
+	fill: rgba(203, 179, 179, 1);
+}
+
+.Rectangle_8__Class:hover {
+	fill: rgba(240, 179, 179, 1);
+}
+
+
+
+.Rectangle_8_ {
+	position: absolute;
+	overflow: visible;
+	width: 362px;
+	height: 62px;
+	left: 0px;
+	top: 0px;
+}
+
+.Hobbies__Class {
+	left: 103px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 158px;
+	height: 36px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(13, 13, 13, 1);
+}
+
+.HeaderStripe__Class {
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 578px;
+	top: 46.642px;
+	overflow: visible;
+}
+
+.Subtraction_1__Class {
+	fill: rgba(203, 179, 179, 1);
+}
+
+.Subtraction_1_ {
+	overflow: visible;
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Footer_Class {
+	position: absolute;
+	width: 1366px;
+	height: 179px;
+	left: 1px;
+	top: 1728px;
+	overflow: visible;
+}
+
+.Rectangle_15_Class {
+	opacity: 0.746;
+	position: absolute;
+	width: 1366px;
+	height: 179px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+
+.APropos_Class {
+	position: absolute;
+	width: 1110px;
+	height: 922px;
+	left: 137px;
+	top: 739px;
+	overflow: visible;
+}
+
+.InfoCard_Class {
+	position: absolute;
+	width: 1110px;
+	height: 922px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+
+.InfoCardBackground_Class {
+	fill: rgba(248, 233, 233, 1);
+}
+
+.InfoCardBackground {
+	position: absolute;
+	overflow: visible;
+	width: 1110px;
+	height: 922px;
+	left: 0px;
+	top: 0px;
+}
+
+.Larissa_Yonga_est_une_jeune_de_Class {
+	left: 59px;
+	top: 73px;
+	position: absolute;
+	overflow: visible;
+	width: 993px;
+	height: 776px;
+	line-height: 80px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Marker Felt;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 50px;
+	color: rgba(112, 112, 112, 1);
+	letter-spacing: 0.05px;
+}
+
+.SandraProfile_Class {
+	position: absolute;
+	width: 294px;
+	height: 294px;
+	left: 534px;
+	top: 47px;
+	overflow: visible;
+}
