@@ -1,0 +1,689 @@
+.mediaViewInfo {
+	--web-view-name: SandraBlog;
+	--web-view-id: SandraBlog;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: SandraBlog;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.SandraBlog_Class {
+	position: absolute;
+	width: 1366px;
+	height: 1859px;
+	background-color: rgba(244,239,239,0.576);
+	overflow: hidden;
+	--web-view-name: SandraBlog;
+	--web-view-id: SandraBlog;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+.Background_Class {
+	position: absolute;
+	width: 1366px;
+	height: 1679px;
+	left: 1px;
+	top: 2px;
+	overflow: visible;
+}
+.Background_k_Class {
+	opacity: 0.42;
+	position: absolute;
+	width: 1366px;
+	height: 1679px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.HeaderStripe_Class {
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 30px;
+	top: 46.642px;
+	overflow: visible;
+}
+.Subtraction_1_Class {
+	fill: rgba(203,179,179,1);
+}
+.Subtraction_1 {
+	overflow: visible;
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.HeaderStripe_n_Class {
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 304px;
+	top: 46.642px;
+	overflow: visible;
+}
+.Subtraction_1_o_Class {
+	fill: rgba(203,179,179,1);
+}
+.Subtraction_1_o {
+	overflow: visible;
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.HeaderStripe_p_Class {
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 851px;
+	top: 46.642px;
+	overflow: visible;
+}
+.Subtraction_1_q_Class {
+	fill: rgba(203,179,179,1);
+}
+.Subtraction_1_q {
+	overflow: visible;
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.HeaderStripe_r_Class {
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 1125px;
+	top: 46.642px;
+	overflow: visible;
+}
+.Subtraction_1_s_Class {
+	fill: rgba(203,179,179,1);
+}
+.Subtraction_1_s {
+	overflow: visible;
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.LARISSA_YONGA_Class {
+	left: 452px;
+	top: 351px;
+	position: absolute;
+	overflow: visible;
+	width: 461px;
+	height: 79px;
+	text-align: left;
+	font-family: Chalkduster;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(47,47,47,1);
+	letter-spacing: 0.1px;
+}
+.Aprops_Class {
+	position: absolute;
+	width: 363px;
+	height: 62px;
+	left: 65px;
+	top: 573px;
+	overflow: visible;
+}
+
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 363px;
+	height: 62px;
+	left: 0px;
+	top: 0px;
+}
+.A_Propos_Class {
+	left: 96px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	height: 38px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(3,3,3,1);
+}
+.ParcourS_Class {
+	position: absolute;
+	width: 362px;
+	height: 62px;
+	left: 502px;
+	top: 511px;
+	overflow: visible;
+}
+
+.Rectangle_8_y {
+	position: absolute;
+	overflow: visible;
+	width: 362px;
+	height: 62px;
+	left: 0px;
+	top: 0px;
+}
+.Parcours_scolaire_Class {
+	left: 33px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 298px;
+	height: 37px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(8,8,8,1);
+}
+.Hobbies_Class {
+	position: absolute;
+	width: 362px;
+	height: 62px;
+	left: 938px;
+	top: 573px;
+	overflow: visible;
+}
+
+.Rectangle_8_ {
+	position: absolute;
+	overflow: visible;
+	width: 362px;
+	height: 62px;
+	left: 0px;
+	top: 0px;
+}
+.Hobbies__Class {
+	left: 103px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 158px;
+	height: 36px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(13,13,13,1);
+}
+.HeaderStripe__Class {
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 578px;
+	top: 46.642px;
+	overflow: visible;
+}
+.Subtraction_1__Class {
+	fill: rgba(203,179,179,1);
+}
+.Subtraction_1_ {
+	overflow: visible;
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Footer_Class {
+	position: absolute;
+	width: 1366px;
+	height: 179px;
+	left: 0px;
+	top: 1681px;
+	overflow: visible;
+}
+.Rectangle_15_Class {
+	opacity: 0.746;
+	position: absolute;
+	width: 1366px;
+	height: 179px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.SandraProfile_Class {
+	position: absolute;
+	width: 294px;
+	height: 294px;
+	left: 534px;
+	top: 47px;
+	overflow: visible;
+}
+.Hobbies_ba_Class {
+	position: absolute;
+	width: 1161px;
+	height: 908px;
+	left: 103px;
+	top: 708px;
+	overflow: visible;
+
+
+}
+
+
+.Rectangle_8_Class {
+	fill: rgba(203, 179, 179, 1);
+}
+
+.Rectangle_8_Class:hover {
+	fill: rgba(240, 179, 179, 1);
+}
+
+.Rectangle_8_y_Class {
+	fill: rgba(203, 179, 179, 1);
+}
+
+.Rectangle_8_y_Class:hover {
+	fill: rgba(240, 179, 179, 1);
+}
+
+/* .Rectangle_8__Class {
+	fill: rgba(203, 179, 179, 1);
+} */
+
+.Rectangle_8__Class {
+	fill: rgba(240, 179, 179, 1);
+}
+
+
+.InfoCardBackground_Class {
+	fill: rgba(248,233,233,1);
+}
+.InfoCardBackground {
+	position: absolute;
+	overflow: visible;
+	width: 1161px;
+	height: 908px;
+	left: 0px;
+	top: 0px;
+}
+.Group_1_Class {
+	position: absolute;
+	width: 374px;
+	height: 814px;
+	left: 478px;
+	top: 28px;
+	overflow: visible;
+}
+.indicator_Class {
+	position: absolute;
+	width: 34px;
+	height: 814px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Line_4_Class {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 6px;
+	height: 789.006px;
+	left: 12.5px;
+	top: 12.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Polygon_1_Class {
+	fill: rgba(112,112,112,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_1 {
+	overflow: hidden;
+	position: absolute;
+	width: 26px;
+	height: 22px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,10,76) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Polygon_2_Class {
+	fill: rgba(112,112,112,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_2 {
+	overflow: hidden;
+	position: absolute;
+	width: 26px;
+	height: 22px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,10,229) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Polygon_3_Class {
+	fill: rgba(112,112,112,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_3 {
+	overflow: hidden;
+	position: absolute;
+	width: 26px;
+	height: 22px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,10,386) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Polygon_4_Class {
+	fill: rgba(112,112,112,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_4 {
+	overflow: hidden;
+	position: absolute;
+	width: 26px;
+	height: 22px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,10,542) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Polygon_5_Class {
+	fill: rgba(112,112,112,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_5 {
+	overflow: hidden;
+	position: absolute;
+	width: 31px;
+	height: 22px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,7.5,695.5) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Path_3_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 6px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 26px;
+	height: 26px;
+	left: 0px;
+	top: 788px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5_Class {
+	fill: rgba(112,112,112,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 6px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_5 {
+	overflow: visible;
+	position: absolute;
+	width: 26px;
+	height: 26px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Visionner_Class {
+	position: absolute;
+	width: 290px;
+	height: 62px;
+	left: 83px;
+	top: 209px;
+	overflow: visible;
+}
+.Visionner_bl_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 291px;
+	height: 62px;
+	text-align: left;
+	font-family: Marker Felt;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 55px;
+	color: rgba(88,88,88,1);
+}
+.Icon_material-live-tv_Class {
+	fill: rgba(0,0,0,1);
+}
+.Icon_material-live-tv {
+	overflow: visible;
+	position: absolute;
+	width: 33px;
+	height: 30px;
+	left: 252.5px;
+	top: 19px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Balade_Class {
+	position: absolute;
+	width: 290px;
+	height: 62px;
+	left: 84px;
+	top: 366px;
+	overflow: visible;
+}
+.Balades_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 291px;
+	height: 62px;
+	text-align: left;
+	font-family: Marker Felt;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 55px;
+	color: rgba(88,88,88,1);
+}
+.Icon_awesome-walking_Class {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-walking {
+	overflow: visible;
+	position: absolute;
+	width: 22.504px;
+	height: 36.005px;
+	left: 249.05px;
+	top: 5.997px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Chanter_Class {
+	position: absolute;
+	width: 290px;
+	height: 62px;
+	left: 83px;
+	top: 674px;
+	overflow: visible;
+}
+.Chanter_br_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 291px;
+	height: 62px;
+	text-align: left;
+	font-family: Marker Felt;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 55px;
+	color: rgba(88,88,88,1);
+}
+.Icon_awesome-music_Class {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-music {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 36.001px;
+	left: 250px;
+	top: 14.997px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Jeux_Class {
+	position: absolute;
+	width: 290px;
+	height: 62px;
+	left: 84px;
+	top: 532px;
+	overflow: visible;
+}
+.Jeux_video_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 291px;
+	height: 62px;
+	text-align: left;
+	font-family: Marker Felt;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 55px;
+	color: rgba(88,88,88,1);
+}
+.Icon_ionic-logo-game-controlle_Class {
+	position: absolute;
+	width: 31.504px;
+	height: 22.493px;
+	left: 250.35px;
+	top: 17.254px;
+	overflow: visible;
+}
+.Path_7_Class {
+	fill: rgba(0,0,0,1);
+}
+.Path_7 {
+	overflow: visible;
+	position: absolute;
+	width: 2.714px;
+	height: 2.728px;
+	left: 5.896px;
+	top: 7.629px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_8_Class {
+	fill: rgba(0,0,0,1);
+}
+.Path_8 {
+	overflow: visible;
+	position: absolute;
+	width: 31.504px;
+	height: 22.493px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Lecture_Class {
+	position: absolute;
+	width: 277px;
+	height: 62px;
+	left: 89px;
+	top: 56px;
+	overflow: visible;
+}
+.Lecture_______Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	height: 62px;
+	text-align: left;
+	font-family: Marker Felt;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 55px;
+	color: rgba(88,88,88,1);
+}
+.Icon_awesome-book-reader_Class {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-book-reader {
+	overflow: visible;
+	position: absolute;
+	width: 36.001px;
+	height: 36px;
+	left: 241px;
+	top: 10px;
+	transform: matrix(1,0,0,1,0,0);
+}
