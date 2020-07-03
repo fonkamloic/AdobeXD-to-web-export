@@ -1,0 +1,769 @@
+.mediaViewInfo {
+	--web-view-name: SandraBlog;
+	--web-view-id: SandraBlog;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: SandraBlog;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.SandraBlog_Class {
+	position: absolute;
+	width: 1366px;
+	height: 2107px;
+	background-color: rgba(244,239,239,0.576);
+	overflow: hidden;
+	--web-view-name: SandraBlog;
+	--web-view-id: SandraBlog;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+.Background_Class {
+	position: absolute;
+	width: 1366px;
+	height: 1926px;
+	left: 1px;
+	top: 2px;
+	overflow: visible;
+}
+.Background_k_Class {
+	opacity: 0.42;
+	position: absolute;
+	width: 1366px;
+	height: 1926px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.HeaderStripe_Class {
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 30px;
+	top: 46.642px;
+	overflow: visible;
+}
+.Subtraction_1_Class {
+	fill: rgba(203,179,179,1);
+}
+.Subtraction_1 {
+	overflow: visible;
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.HeaderStripe_n_Class {
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 304px;
+	top: 46.642px;
+	overflow: visible;
+}
+.Subtraction_1_o_Class {
+	fill: rgba(203,179,179,1);
+}
+.Subtraction_1_o {
+	overflow: visible;
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.HeaderStripe_p_Class {
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 851px;
+	top: 46.642px;
+	overflow: visible;
+}
+.Subtraction_1_q_Class {
+	fill: rgba(203,179,179,1);
+}
+.Subtraction_1_q {
+	overflow: visible;
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.HeaderStripe_r_Class {
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 1125px;
+	top: 46.642px;
+	overflow: visible;
+}
+.Subtraction_1_s_Class {
+	fill: rgba(203,179,179,1);
+}
+.Subtraction_1_s {
+	overflow: visible;
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.LARISSA_YONGA_Class {
+	left: 452px;
+	top: 351px;
+	position: absolute;
+	overflow: visible;
+	width: 461px;
+	height: 79px;
+	text-align: left;
+	font-family: Chalkduster;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(47,47,47,1);
+	letter-spacing: 0.1px;
+}
+.Aprops_Class {
+	position: absolute;
+	width: 363px;
+	height: 62px;
+	left: 65px;
+	top: 573px;
+	overflow: visible;
+}
+
+
+.Rectangle_8_Class {
+	fill: rgba(203, 179, 179, 1);
+}
+
+.Rectangle_8_Class:hover {
+	fill: rgba(240, 179, 179, 1);
+}
+
+/* .Rectangle_8_y_Class {
+	fill: rgba(203, 179, 179, 1);
+} */
+
+.Rectangle_8_y_Class {
+	fill: rgba(240, 179, 179, 1);
+}
+
+.Rectangle_8__Class {
+	fill: rgba(203, 179, 179, 1);
+}
+
+.Rectangle_8__Class:hover {
+	fill: rgba(240, 179, 179, 1);
+}
+
+
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 363px;
+	height: 62px;
+	left: 0px;
+	top: 0px;
+}
+.A_Propos_Class {
+	left: 96px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	height: 38px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(3,3,3,1);
+}
+.ParcourS_Class {
+	position: absolute;
+	width: 362px;
+	height: 62px;
+	left: 502px;
+	top: 511px;
+	overflow: visible;
+}
+
+.Rectangle_8_y {
+	position: absolute;
+	overflow: visible;
+	width: 362px;
+	height: 62px;
+	left: 0px;
+	top: 0px;
+}
+.Parcours_scolaire_Class {
+	left: 33px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 298px;
+	height: 37px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(8,8,8,1);
+}
+.Hobbies_Class {
+	position: absolute;
+	width: 362px;
+	height: 62px;
+	left: 938px;
+	top: 573px;
+	overflow: visible;
+}
+
+.Rectangle_8_ {
+	position: absolute;
+	overflow: visible;
+	width: 362px;
+	height: 62px;
+	left: 0px;
+	top: 0px;
+}
+.Hobbies__Class {
+	left: 103px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 158px;
+	height: 36px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(13,13,13,1);
+}
+.HeaderStripe__Class {
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 578px;
+	top: 46.642px;
+	overflow: visible;
+}
+.Subtraction_1__Class {
+	fill: rgba(203,179,179,1);
+}
+.Subtraction_1_ {
+	overflow: visible;
+	position: absolute;
+	width: 208.614px;
+	height: 181.41px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Footer_Class {
+	position: absolute;
+	width: 1366px;
+	height: 179px;
+	left: 1px;
+	top: 1928px;
+	overflow: visible;
+}
+.Rectangle_15_Class {
+	opacity: 0.746;
+	position: absolute;
+	width: 1366px;
+	height: 179px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.SandraProfile_Class {
+	position: absolute;
+	width: 294px;
+	height: 294px;
+	left: 534px;
+	top: 47px;
+	overflow: visible;
+}
+.InfoCard_Class {
+	position: absolute;
+	width: 1213px;
+	height: 1202px;
+	left: 77px;
+	top: 668px;
+	overflow: visible;
+}
+.InfoCardBackground_Class {
+	fill: rgba(248,233,233,1);
+}
+.InfoCardBackground {
+	position: absolute;
+	overflow: visible;
+	width: 1213px;
+	height: 1202px;
+	left: 0px;
+	top: 0px;
+}
+.FormationIndicateur_Class {
+	position: absolute;
+	width: 53px;
+	height: 990.5px;
+	left: 595.12px;
+	top: 177.5px;
+	overflow: visible;
+}
+.Path_2_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 4px;
+	height: 985.389px;
+	left: 26.5px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.FormationIndicateur_bc_Class {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0.5px;
+	overflow: visible;
+}
+.Ellipse_1_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_awesome-graduation-cap_Class {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-graduation-cap {
+	overflow: visible;
+	position: absolute;
+	width: 29.167px;
+	height: 17.5px;
+	left: 11.7px;
+	top: 17px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.FormationIndicateur2_Class {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 358.5px;
+	overflow: visible;
+}
+.Ellipse_1_bg_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1_bg {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_awesome-graduation-cap_bh_Class {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-graduation-cap_bh {
+	overflow: visible;
+	position: absolute;
+	width: 29.167px;
+	height: 17.5px;
+	left: 11.7px;
+	top: 17px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.FormationIndicateur3_Class {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 647.5px;
+	overflow: visible;
+}
+.Ellipse_1_bj_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1_bj {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_awesome-graduation-cap_bk_Class {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-graduation-cap_bk {
+	overflow: visible;
+	position: absolute;
+	width: 29.167px;
+	height: 17.5px;
+	left: 11.7px;
+	top: 17px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Plus_Class {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 937.5px;
+	overflow: visible;
+}
+.Ellipse_1_bm_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1_bm {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+.Line_2_Class {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 4px;
+	height: 24px;
+	left: 26.5px;
+	top: 14.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_3_Class {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 24px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,26.5,14.5) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Formation3_Class {
+	position: absolute;
+	width: 525.5px;
+	height: 315px;
+	left: 16px;
+	top: 177px;
+	overflow: visible;
+}
+.CardBackground2_Class {
+	position: absolute;
+	width: 574.5px;
+	height: 315px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_12_Class {
+	fill: rgba(245,244,244,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 557px;
+	height: 315px;
+	left: 0px;
+	top: 0px;
+}
+.Path_1_Class {
+	fill: rgba(232,229,229,1);
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 19px;
+	height: 17px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,556.5,16.5) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Octobre_2018_-_a_prsent__Forma_Class {
+	left: 12px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 520px;
+	height: 43px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.LEcole_Nationale_Suprieure_Pol_Class {
+	left: 19px;
+	top: 95px;
+	position: absolute;
+	overflow: visible;
+	width: 502px;
+	height: 177px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(88,88,88,1);
+}
+.Fromation2_Class {
+	position: absolute;
+	width: 541.5px;
+	height: 351px;
+	left: 657.5px;
+	top: 540px;
+	overflow: visible;
+}
+.CardBackgound1_Class {
+	position: absolute;
+	width: 541.5px;
+	height: 351px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_12_bx_Class {
+	fill: rgba(245,244,244,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_12_bx {
+	position: absolute;
+	overflow: visible;
+	width: 525px;
+	height: 351px;
+	left: 16.5px;
+	top: 0px;
+}
+.Path_1_by_Class {
+	fill: rgba(232,229,229,1);
+}
+.Path_1_by {
+	overflow: visible;
+	position: absolute;
+	width: 19px;
+	height: 17px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-1,13.7417) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Octobre_2017_-_2018__Universit_Class {
+	left: 37.5px;
+	top: 19px;
+	position: absolute;
+	overflow: visible;
+	width: 473px;
+	height: 55px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+.Luniversit_de_Douala_est_une_u_Class {
+	left: 38.5px;
+	top: 93px;
+	position: absolute;
+	overflow: visible;
+	width: 482px;
+	height: 235px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(88,88,88,1);
+}
+.FormationFGI_Class {
+	position: absolute;
+	width: 569.5px;
+	height: 324px;
+	left: 16px;
+	top: 815px;
+	overflow: visible;
+}
+.CardBackground_Class {
+	position: absolute;
+	width: 569.5px;
+	height: 324px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_12_b_Class {
+	fill: rgba(245,244,244,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_12_b {
+	position: absolute;
+	overflow: visible;
+	width: 553px;
+	height: 324px;
+	left: 0px;
+	top: 0px;
+}
+.Path_1_b_Class {
+	fill: rgba(232,229,229,1);
+}
+.Path_1_b {
+	overflow: visible;
+	position: absolute;
+	width: 19px;
+	height: 17px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,551.5,23.5) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.__College_Bilingue_LAVAL__Class {
+	left: 27px;
+	top: 39px;
+	position: absolute;
+	overflow: visible;
+	width: 380px;
+	height: 39px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+.Septembre_2015_-_2016__Baccala_Class {
+	opacity: 0.6;
+	left: 27px;
+	top: 110px;
+	position: absolute;
+	overflow: hidden;
+	width: 496px;
+	height: 186px;
+	line-height: 40px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(72,71,71,1);
+}
+.YOBA_YONGA_SANDRA_LARISSA_Mat__Class {
+	left: 150.463px;
+	top: 31px;
+	position: absolute;
+	overflow: visible;
+	width: 912.099px;
+	height: 147px;
+	text-align: center;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 54px;
+	color: rgba(72,71,71,1);
+}
